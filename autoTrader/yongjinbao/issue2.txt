@@ -1,0 +1,53 @@
+
+now time is :  9.1454758959
+now time is :  9.1455774592
+603858 88.52 100
+{'init_date': '20161121', 'entrust_type': '0', 'error_no': '0', 'entrust_price': 88.52, 'entrust_status': '1', 'error_info': '', 'seat_no': '28356', 'batch_no': '5852', 'report_no_old': '2611', 'order_id': '2611', 'entrust_amount': 100, 'fund_account': '40533476', 'stock_code': '603858', 'report_no': '2611', 'entrust_no': '5852', 'entrust_bs': '1', 'orig_order_id': '2611', 'entrust_time': '91457'}
+002820 26.29 100
+{'init_date': '20161121', 'entrust_type': '0', 'error_no': '0', 'entrust_price': 26.29, 'entrust_status': '1', 'error_info': '', 'seat_no': '394232', 'batch_no': '5856', 'report_no_old': '3015', 'order_id': '3015', 'entrust_amount': 100, 'fund_account': '40533476', 'stock_code': '002820', 'report_no': '3015', 'entrust_no': '5856', 'entrust_bs': '1', 'orig_order_id': '3015', 'entrust_time': '91457'}
+002821 48.36 100
+{'init_date': '20161121', 'entrust_type': '0', 'error_no': '0', 'entrust_price': 48.36, 'entrust_status': '1', 'error_info': '', 'seat_no': '394232', 'batch_no': '5858', 'report_no_old': '3017', 'order_id': '3017', 'entrust_amount': 100, 'fund_account': '40533476', 'stock_code': '002821', 'report_no': '3017', 'entrust_no': '5858', 'entrust_bs': '1', 'orig_order_id': '3017', 'entrust_time': '91457'}
+now time is :  9.1457225126
+603858 88.52 100
+{'report_no_old': '', 'error_no_src': '251006', 'report_no': '', 'error_no': '-61', 'error_pathinfo': 'F333002() -> F2250003() -> F3250009() -> F3250000()-->AP_SECUTRADE_REPENTRUST_CHECK', 'error_info': '不能在系统杂项参数3122设定的时间内重复发送委托请求'}
+002820 26.29 100
+{'report_no_old': '', 'error_no_src': '251006', 'report_no': '', 'error_no': '-61', 'error_pathinfo': 'F333002() -> F2250003() -> F3250009() -> F3250000()-->AP_SECUTRADE_REPENTRUST_CHECK', 'error_info': '不能在系统杂项参数3122设定的时间内重复发送委托请求'}
+002821 48.36 100
+{'report_no_old': '', 'error_no_src': '251006', 'report_no': '', 'error_no': '-61', 'error_pathinfo': 'F333002() -> F2250003() -> F3250009() -> F3250000()-->AP_SECUTRADE_REPENTRUST_CHECK', 'error_info': '不能在系统杂项参数3122设定的时间内重复发送委托请求'}
+now time is :  9.1458410062
+603858 88.52 100
+{'report_no_old': '', 'error_no_src': '260200', 'report_no': '', 'error_no': '-57', 'error_pathinfo': 'F333002() -> F2250003() -> F3103000()', 'error_info': '可用资金不足'}
+002820 26.29 100
+{'init_date': '20161121', 'entrust_type': '0', 'error_no': '0', 'entrust_price': 26.29, 'entrust_status': '1', 'error_info': '', 'seat_no': '394232', 'batch_no': '5866', 'report_no_old': '3022', 'order_id': '3022', 'entrust_amount': 100, 'fund_account': '40533476', 'stock_code': '002820', 'report_no': '3022', 'entrust_no': '5866', 'entrust_bs': '1', 'orig_order_id': '3022', 'entrust_time': '91500'}
+002821 48.36 100
+{'report_no_old': '', 'error_no_src': '260200', 'report_no': '', 'error_no': '-57', 'error_pathinfo': 'F333002() -> F2250003() -> F3103000()', 'error_info': '可用资金不足'}
+now time is :  9.1459615502
+603858 88.52 100
+{'report_no_old': '', 'error_no_src': '260200', 'report_no': '', 'error_no': '-57', 'error_pathinfo': 'F333002() -> F2250003() -> F3103000()', 'error_info': '可用资金不足'}
+002820 26.29 100
+{'report_no_old': '', 'error_no_src': '251006', 'report_no': '', 'error_no': '-61', 'error_pathinfo': 'F333002() -> F2250003() -> F3250009() -> F3250000()-->AP_SECUTRADE_REPENTRUST_CHECK', 'error_info': '不能在系统杂项参数3122设定的时间内重复发送委托请求'}
+002821 48.36 100
+{'report_no_old': '', 'error_no_src': '260200', 'report_no': '', 'error_no': '-57', 'error_pathinfo': 'F333002() -> F2250003() -> F3103000()', 'error_info': '可用资金不足'}
+now time is :  9.1500845098
+603858 88.52 100
+{'report_no_old': '', 'error_no_src': '260200', 'report_no': '', 'error_no': '-57', 'error_pathinfo': 'F333002() -> F2250003() -> F3103000()', 'error_info': '可用资金不足'}
+002820 26.29 100
+{'init_date': '20161121', 'entrust_type': '0', 'error_no': '0', 'entrust_price': 26.29, 'entrust_status': '1', 'error_info': '', 'seat_no': '394232', 'batch_no': '5873', 'report_no_old': '3026', 'order_id': '3026', 'entrust_amount': 100, 'fund_account': '40533476', 'stock_code': '002820', 'report_no': '3026', 'entrust_no': '5873', 'entrust_bs': '1', 'orig_order_id': '3026', 'entrust_time': '91502'}
+002821 48.36 100
+{'report_no_old': '', 'error_no_src': '260200', 'report_no': '', 'error_no': '-57', 'error_pathinfo': 'F333002() -> F2250003() -> F3103000()', 'error_info': '可用资金不足'}
+now time is :  9.1502045633
+603858 88.52 100
+{'report_no_old': '', 'error_no_src': '260200', 'report_no': '', 'error_no': '-57', 'error_pathinfo': 'F333002() -> F2250003() -> F3103000()', 'error_info': '可用资金不足'}
+002820 26.29 100
+{'report_no_old': '', 'error_no_src': '251006', 'report_no': '', 'error_no': '-61', 'error_pathinfo': 'F333002() -> F2250003() -> F3250009() -> F3250000()-->AP_SECUTRADE_REPENTRUST_CHECK', 'error_info': '不能在系统杂项参数3122设定的时间内重复发送委托请求'}
+002821 48.36 100
+{'report_no_old': '', 'error_no_src': '260200', 'report_no': '', 'error_no': '-57', 'error_pathinfo': 'F333002() -> F2250003() -> F3103000()', 'error_info': '可用资金不足'}
+Market is closed... 2016-11-21 09:15:03.235831
+In [ ]:
+
+​
+In [ ]:
+
+​
+​
+​
