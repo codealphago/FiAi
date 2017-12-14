@@ -1,2 +1,3 @@
 # FiAi
-Finance technology tools with AI.
+Financical technology tools with AI.
+Something will be done.
